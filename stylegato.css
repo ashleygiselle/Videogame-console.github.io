@@ -1,4 +1,8 @@
 body {
+    background-image: url("https://www.gratistodo.com/wp-content/uploads/2021/12/Fondos-Azules-5-scaled.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
     margin: 0;
